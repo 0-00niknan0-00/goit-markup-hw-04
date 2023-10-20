@@ -83,6 +83,7 @@ img {
 .header-menu-link.current::after {
   content: "";
   position: absolute;
+  background-color: #404bbf;
   left: 0;
   bottom: -1px;
   height: 4px;
